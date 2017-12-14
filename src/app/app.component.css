@@ -1,0 +1,12 @@
+*{
+	font-family: arial;
+	text-decoration: underline;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.links{
+	border-bottom: 4px solid black;
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
